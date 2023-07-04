@@ -1,7 +1,7 @@
 <h1 align="center">Salut, c'est Jules</h1>
 <h3 align="center">Je suis developpeur Fullstack Javascript</h3>
 
-👀 Je recherche actuellement une alternance pour terminer ma licence (j'ai un actuellement à bac+2) sur Bordeaux.
+👀 Je recherche actuellement une alternance pour terminer ma licence (j'ai actuellement un bac+2) sur Bordeaux.
 
 👨🏻‍💻 J'ai dans ma stack **HTML, CSS, React.js, Node.js,**
 
