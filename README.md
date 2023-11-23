@@ -3,9 +3,9 @@
 
 👀 Je recherche actuellement une alternance pour terminer ma licence (j'ai actuellement un bac+2) sur Bordeaux.
 
-👨🏻‍💻 J'ai dans ma stack **HTML, CSS, React.js, Node.js,**
+👨🏻‍💻 J'ai dans ma stack **HTML, CSS, Javascript, React.js, Node.js,**
 
-mais également **ECMAScript 6, Sass, express, mongoose**
+mais également ** Sass, express, mongoose**
 
 📫 Vous pouvez me contacter à **jules.laconfourque@gmail.com**
 
